@@ -1,3 +1,3 @@
 Startup Website <br>
 
-A demo website for startups.
+A demo website for startups
